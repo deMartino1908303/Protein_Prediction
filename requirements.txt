@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+geoopt
+scipy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+jupyter
